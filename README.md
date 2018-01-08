@@ -300,13 +300,4 @@ On each purchases (provided that the order is valid, aka if the main sale is run
 ```
 
 # Copyright and Intellectual Property
-```
-Copyright © 2017 Eliott Teissonniere <http://eliott.tech>.
-
-ALL RIGHTS RESERVED.
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software. Removing the above copyright
-notice without any prior written agreement from Eliott Teissonniere is a
-copyright and intellectual property violation.
-```
+This source code has been developed and published by [Eliott TEISSONNIERE](http://eliott.tech) for DAOSprout, it is covered by an `AGPLv3` license, please see the file `LICENSE` for more informations.
